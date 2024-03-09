@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://in.linkedin.com/in/pradip-galiyal-673115139" target="blank"><img align="center" src="https://c0.klipartz.com/pngpicture/93/555/gratis-png-area-de-angulo-de-marca-azul-linkedin-en-texto.png" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/___p_a_d_d_y___" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/pradip-galiyal-673115139" target="blank"><img align="center" src="https://c0.klipartz.com/pngpicture/93/555/gratis-png-area-de-angulo-de-marca-azul-linkedin-en-texto.png" alt="" height="30" width="30" /></a>
+<a href="https://instagram.com/___p_a_d_d_y___" target="blank"><img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-social-platform-icon-png-image_6315976.png" alt="" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
